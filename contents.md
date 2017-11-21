@@ -2,7 +2,6 @@
 
 [Source control]
 1 - Git
-2 - GitHub
 3 - Git Flow
 
 [Developer tools]
